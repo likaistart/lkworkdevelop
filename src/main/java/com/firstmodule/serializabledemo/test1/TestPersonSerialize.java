@@ -1,4 +1,4 @@
-package com.firstmodule.serializabledemo;
+package com.firstmodule.serializabledemo.test1;
 
 import java.io.*;
 
@@ -14,14 +14,12 @@ public class TestPersonSerialize {
         serializePerson();
         Person p = deserializePerson();
         System.out.println(p.getName() + ";" + p.getAge());
-
-
     }
 
     private static void serializePerson() throws FileNotFoundException, IOException {
         Person person = new Person();
         person.setName("测试实例");
-        person.setAge(25);
+        person.setAge(27);
         person.setSex("male");
 
         ObjectOutputStream oo = new ObjectOutputStream(new FileOutputStream(

@@ -1,4 +1,4 @@
-package com.firstmodule.serializabledemo;
+package com.firstmodule.serializabledemo.test1;
 
 import java.io.Serializable;
 
