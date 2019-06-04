@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa29baad-1b4f-4f13-900e-1fadc97f4af4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo1/DeserialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo1/SerialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo2/SerialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/simpledemo/SimpleCollectionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/test2/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/test2/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/firstmodule/serializabledemo/test2/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/firstmodule/serializabledemo/test2/Customer.class" afterDir="false" />
-    </list>
+    <list default="true" id="aa29baad-1b4f-4f13-900e-1fadc97f4af4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/firstmodule/simpledemo/SimpleCollectionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -39,6 +29,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/firstmodule/prometheusdemo/PrometheusDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -147,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo2/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/firstmodule/serializabledemo/serial/serialdemo2/SerialTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/firstmodule/simpledemo/SimpleCollectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/firstmodule/prometheusdemo/PrometheusDemo.java" />
       </list>
     </option>
   </component>
@@ -208,7 +208,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="firstmodule" type="462c0819:PsiDirectoryNode" />
-              <item name="simpledemo" type="462c0819:PsiDirectoryNode" />
+              <item name="prometheusdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
@@ -258,7 +258,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559634603396" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559635374434" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -404,19 +404,19 @@
       <workItem from="1559317147747" duration="4153000" />
       <workItem from="1559445995438" duration="4475000" />
       <workItem from="1559489913701" duration="1084000" />
-      <workItem from="1559553355262" duration="2488000" />
+      <workItem from="1559553355262" duration="2913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13135000" />
+    <option name="totallyTimeSpent" value="13560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83472806" visible="true" weight="0.26180258" />
-      <window_info id="Structure" order="1" sideWeight="0.16527197" side_tool="true" visible="true" weight="0.26180258" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8352745" visible="true" weight="0.26180258" />
+      <window_info id="Structure" order="1" sideWeight="0.16472545" side_tool="true" visible="true" weight="0.26180258" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -424,13 +424,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42409638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41686746" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2686747" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23012048" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2759036" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.43975905" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
@@ -772,6 +772,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/firstmodule/prometheusdemo/PrometheusDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
