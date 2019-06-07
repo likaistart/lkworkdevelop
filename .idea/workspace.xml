@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aa29baad-1b4f-4f13-900e-1fadc97f4af4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/secondmodule/june/fileinfo/20190607" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/secondmodule/june/fileinfo/20190607" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/secondmodule/june/fileinfo/20190607">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+            <state relative-caret-position="400">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -176,112 +177,13 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="june" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="june" type="462c0819:PsiDirectoryNode" />
-              <item name="fileinfo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="firstmodule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lkworkdevelop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="firstmodule" type="462c0819:PsiDirectoryNode" />
-              <item name="logincookiesdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lkworkdevelop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559919485518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559926313845" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -427,15 +329,16 @@
       <workItem from="1559317147747" duration="4153000" />
       <workItem from="1559445995438" duration="4475000" />
       <workItem from="1559489913701" duration="1084000" />
-      <workItem from="1559553355262" duration="7949000" />
+      <workItem from="1559553355262" duration="10794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18596000" />
+    <option name="totallyTimeSpent" value="21441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83431953" visible="true" weight="0.26180258" />
       <window_info id="Structure" order="1" sideWeight="0.16568047" side_tool="true" visible="true" weight="0.26180258" />
@@ -848,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/secondmodule/june/fileinfo/20190607">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+        <state relative-caret-position="400">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
