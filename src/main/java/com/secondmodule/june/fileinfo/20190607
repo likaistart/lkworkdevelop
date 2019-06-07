@@ -1,0 +1,99 @@
+    操作系统
+        csdn博客:https://blog.csdn.net/qq_35939148/article/category/8640735
+        1.进程/线程/协程
+        ✨✨✨进程、线程和协程之间的区别和联系
+        https://blog.csdn.net/daaikuaichuan/article/details/82951084#font_size5font_72
+        cpu,核心数，线程抢占式分配理解，时间分片机制总结，进程和线程关系及区别
+        https://blog.csdn.net/csdnliuxin123524/article/details/79080731
+        操作系统之进程的状态和转换详解
+        https://blog.csdn.net/qwe6112071/article/details/70473905
+        进程间的五种通信方式介绍
+        https://www.cnblogs.com/zgq0/p/8780893.html
+        进程状态的概念及状态转换图
+        https://blog.csdn.net/asjbfjsb/article/details/80892989
+        资源分配图化简法
+        https://blog.csdn.net/coding1994/article/details/52474731
+        Java线程的5种状态及状态之间转换
+        https://blog.csdn.net/u013129944/article/details/73741161
+
+        注意:
+        java线程转换图和操作系统线程转换图略不同?待确认
+        主要 阻塞状态可以到达就绪状态
+        线程状态图
+        https://www.cnblogs.com/happy-coder/p/6587092.html
+        进程:内存体-->地址空间/堆
+        2.调度
+                进程
+                作业
+        操作系统学习笔记（三） 进程和线程的调度
+        https://www.cnblogs.com/lustar/p/7716165.html
+        百度百科:进程调度
+        https://baike.baidu.com/item/%E8%BF%9B%E7%A8%8B%E8%B0%83%E5%BA%A6/10702294?fr=aladdin
+        操作系统核心原理-3.进程原理（中）：进程调度
+        https://www.cnblogs.com/edisonchou/p/5020681.html
+        操作系统核心原理-3.进程原理（下）：进程通信
+        https://www.cnblogs.com/edisonchou/p/5022508.html
+
+        3.进程线程状态转换
+        进程的描述与控制 进程的状态和转换 三态模型和五态模型
+        https://blog.csdn.net/sdr_zd/article/details/78748497
+        线程的状态转换图
+        https://www.cnblogs.com/bhlsheji/p/5099362.html
+
+        4.中断机制
+        详解操作系统中断
+        https://www.cnblogs.com/ck1020/p/6024330.html
+
+        5.CUP组成
+                运算器
+                控制器
+                存储器
+        寄存器---汇编学习笔记
+        https://blog.csdn.net/qq_37340753/article/details/80935423
+        win32常用的汇编指令和寄存器
+        https://blog.csdn.net/u011555996/article/details/80151371
+
+
+        6.I/O
+        操作系统核心原理-7.设备管理：I/O原理
+        https://www.cnblogs.com/edisonchou/p/5154484.html
+
+        7.磁盘
+        操作系统核心原理-6.外存管理（上）磁盘基础
+        https://www.cnblogs.com/edisonchou/p/5136649.html
+
+        8.文件
+        操作系统核心原理-6.外存管理（下）文件系统
+        https://www.cnblogs.com/edisonchou/p/5154252.html
+
+        博客园:
+        操作系统:https://wz.cnblogs.com/my/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1
+
+
+    计算机组成原理
+
+        csdn博客
+        计算机概念相关 https://blog.csdn.net/qq_35939148/article/category/8901361
+        计算机原理    https://blog.csdn.net/qq_35939148/article/category/8641271
+        计算机理论    https://blog.csdn.net/qq_35939148/article/category/8640797
+
+        徐文浩
+        https://time.geekbang.org/column/article/93359
+        许式伟
+        https://time.geekbang.org/column/article/96324
+
+
+        博客园
+        计算机基础   https://wz.cnblogs.com/my/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/1
+
+    网络编程
+        刘超
+        https://time.geekbang.org/column/article/8729
+        csdn博客
+        计算机网络    https://blog.csdn.net/qq_35939148/article/category/8867510
+
+    编译原理
+        博客园
+        编译原理:https://wz.cnblogs.com/my/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1
+        CSDN
+        编译原理:https://blog.csdn.net/qq_35939148/article/category/8640734
