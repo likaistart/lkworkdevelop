@@ -1,9 +1,27 @@
     操作系统
         csdn博客:https://blog.csdn.net/qq_35939148/article/category/8640735
         1.进程/线程/协程
-        进程、线程和协程之间的区别和联系
+        ✨✨✨进程、线程和协程之间的区别和联系
         https://blog.csdn.net/daaikuaichuan/article/details/82951084#font_size5font_72
+        cpu,核心数，线程抢占式分配理解，时间分片机制总结，进程和线程关系及区别
+        https://blog.csdn.net/csdnliuxin123524/article/details/79080731
+        操作系统之进程的状态和转换详解
+        https://blog.csdn.net/qwe6112071/article/details/70473905
+        进程间的五种通信方式介绍
+        https://www.cnblogs.com/zgq0/p/8780893.html
+        进程状态的概念及状态转换图
+        https://blog.csdn.net/asjbfjsb/article/details/80892989
+        资源分配图化简法
+        https://blog.csdn.net/coding1994/article/details/52474731
+        Java线程的5种状态及状态之间转换
+        https://blog.csdn.net/u013129944/article/details/73741161
 
+        注意:
+        java线程转换图和操作系统线程转换图略不同?待确认
+        主要 阻塞状态可以到达就绪状态
+        线程状态图
+        https://www.cnblogs.com/happy-coder/p/6587092.html
+        进程:内存体-->地址空间/堆
         2.调度
                 进程
                 作业
@@ -69,10 +87,10 @@
         计算机基础   https://wz.cnblogs.com/my/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/1
 
     网络编程
-         刘超
-         https://time.geekbang.org/column/article/8729
-         csdn博客
-         计算机网络    https://blog.csdn.net/qq_35939148/article/category/8867510
+        刘超
+        https://time.geekbang.org/column/article/8729
+        csdn博客
+        计算机网络    https://blog.csdn.net/qq_35939148/article/category/8867510
 
     编译原理
         博客园
