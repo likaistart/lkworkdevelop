@@ -1,5 +1,25 @@
+计算机基础知识一览:
     操作系统
-        csdn博客:https://blog.csdn.net/qq_35939148/article/category/8640735
+        csdn博客:
+        https://blog.csdn.net/qq_35939148/article/category/8640735
+
+        linux线程切换和进程切换的方法
+        https://www.jb51.net/article/102004.htm
+        操作系统图解
+        https://blog.csdn.net/qq_35939148/article/category/8640735
+        轻松学—操作系统之存储
+        https://blog.csdn.net/qq_35939148/article/details/86644087
+        信号量 与 互斥量的区别
+        https://blog.csdn.net/qq_35939148/article/details/86646749
+        操作系统 概述
+        https://blog.csdn.net/qq_35939148/article/details/86646689
+        操作系统复习要点
+        https://blog.csdn.net/qq_35939148/article/details/86646708
+        硬盘和操作系统数据块
+        http://blog.itpub.net/26736162/viewspace-2136094/
+        操作系统核心原理-1.操作系统导论 系列内容，较多
+        https://www.cnblogs.com/edisonchou/p/4996163.html
+
         1.进程/线程/协程
         ✨✨✨进程、线程和协程之间的区别和联系
         https://blog.csdn.net/daaikuaichuan/article/details/82951084#font_size5font_72
@@ -15,7 +35,12 @@
         https://blog.csdn.net/coding1994/article/details/52474731
         Java线程的5种状态及状态之间转换
         https://blog.csdn.net/u013129944/article/details/73741161
-
+        PCB与进程分配资源
+        https://blog.csdn.net/lvyibin890/article/details/82193900
+        图解说明——究竟什么是Windows句柄
+        https://www.cnblogs.com/zpcdbky/p/4652151.html
+        《深入理解计算机系统》| 虚拟存储器
+        https://www.jianshu.com/p/e1b82b230917?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
         注意:
         java线程转换图和操作系统线程转换图略不同?待确认
         主要 阻塞状态可以到达就绪状态
